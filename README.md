@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhiaeddine Zarouan</h1>
 <h3 align="center">A passionate Multidisciplinary Engineer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Loan Simulator**
+- 🔭 I’m currently working on **Mathematic Engine**
 
-- 🌱 I’m currently learning **Angular 20** and **Spring Boot (Java 21)**
+- 🌱 I’m currently delving deep in **C++** and **Applied Mathematics**
 
 - 📫 How to reach me **dhiaeddinezarouan@gmail.com**
 
