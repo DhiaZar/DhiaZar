@@ -105,10 +105,10 @@ public:
 <div align="center">
 
 <a href="https://github.com/DhiaZar">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhiaZar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats-pearl-sigma-80.vercel.app/api?username=DhiaZar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github&cache_seconds=86400" height="165"/>
 </a>
 <a href="https://github.com/DhiaZar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhiaZar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats-pearl-sigma-80.vercel.app/api/top-langs/?username=DhiaZar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="165"/>
 </a>
 
 <a href="https://git.io/streak-stats">
@@ -122,21 +122,6 @@ public:
 ## `> activity`
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhiaZar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
-
----
-
-## `> stats_fix`
-
-<details>
-<summary><b>📊 Stats cards not loading? Click here</b></summary>
-
-The public stats service gets rate-limited. For a permanent fix, **self-host in 3 steps**:
-
-1. Fork [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. Deploy your fork to [Vercel](https://vercel.com) (free) with a `PAT_1` env var set to a GitHub personal access token
-3. Replace `github-readme-stats.vercel.app` in this README with your own Vercel domain
-
-</details>
 
 ---
 
