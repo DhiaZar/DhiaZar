@@ -43,7 +43,7 @@ public:
 
 ## `> current_mission`
 
-🔭 **Building a [Mathematics Engine](https://github.com/dhiaeddine-zarouan)** — a ground-up implementation of mathematical primitives and algorithms in C++, focused on performance, correctness, and elegant design.
+🔭 **Building a [Mathematics Engine](https://github.com/DhiaZar)** — a ground-up implementation of mathematical primitives and algorithms in C++, focused on performance, correctness, and elegant design.
 
 🌱 **Deep study:** C++ (modern standards, memory model, template metaprogramming) × Applied Mathematics (linear algebra, numerical methods, optimization)
 
@@ -91,10 +91,10 @@ public:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhiaeddine-zarouan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiaeddine-zarouan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DhiaZar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhiaZar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhiaeddine-zarouan&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DhiaZar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
 
 </div>
 
@@ -102,7 +102,7 @@ public:
 
 ## `> activity`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiaeddine-zarouan&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhiaZar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
 
 ---
 
